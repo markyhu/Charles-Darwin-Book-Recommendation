@@ -1,7 +1,10 @@
-# Book-Recommendations-from-Charles-Darwin
+#Charles Darwin's book recommendation 
 
-Provide a book by Charles Darwin, recommend his another book based on the content and visualize similarity score.
+Provide a book by Charles Darwin, recommend his other books based on the content similarity and visualize similarity score.
+
 
 Example:
 '''
-python main.py 
+python main.py DescentofMan
+
+'''
